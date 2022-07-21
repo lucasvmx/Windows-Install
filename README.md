@@ -23,10 +23,9 @@ cd ventoy-1.0.78
 ./VentoyGUI.x86_64
 ```
 
-![](ventoy1.png)
-
 3.1 - Selecione o dispositivo e clique em install
 
+![](ventoy1.png)
 ![](ventoy2.png)
 
 3.2 - Monte o arquivo ISO
