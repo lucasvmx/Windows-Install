@@ -35,6 +35,7 @@ Para fazer isso, basta dar um clique duplo no arquivo de imagem .ISO. Observe qu
 ![](ventoy3.png)
 
 3.3 - Copie todos os arquivos do volume montado após abrir a imagem .ISO para dentro do volume chamado "Ventoy".
+![](ventoy5.png)
 ![](ventoy4.png)
 
 3.4 - Aguarde a cópia finalizar
