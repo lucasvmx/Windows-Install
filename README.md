@@ -32,13 +32,16 @@ cd ventoy-1.0.78
 3.2 - Monte o arquivo ISO
 
 Para fazer isso, basta dar um clique duplo no arquivo de imagem .ISO. Observe que logo em seguida, ele será montado:
+
 ![](ventoy3.png)
 
-3.3 - Copie todos os arquivos para dentro do volume chamado "Ventoy". 
+3.3 - Copie todos os arquivos para dentro do volume chamado "Ventoy".
+
 3.4 - Aguarde a cópia finalizar
+
 3.5 - Faça a ejeção do dispositivo USB
 
-4 - Configure a BIOS para dar boot no dispositivo USB
+4 - Configure a BIOS para dar boot no dispositivo USB e prossiga com a instalação do Windows normalmente
 
 
 
