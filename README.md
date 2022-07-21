@@ -6,7 +6,7 @@
 1 - Faça o download da imagem do windows (ISO)
 
 ```bash
-wget 'https://software.download.prss.microsoft.com/dbazure/Win10_21H2_BrazilianPortuguese_x64.iso?t=e3b74e3e-b5c9-46a0-9e07-ccfe1c6468d7&e=1658507156&h=62ee6cfa22d176b2bb6d59d22855d2051c68bacab6fc46afda575c86d4315fdc'
+wget 'https://software.download.prss.microsoft.com/dbazure/Win10_21H2_BrazilianPortuguese_x64.iso?t=e3b74e3e-b5c9-46a0-9e07-ccfe1c6468d7&e=1658507156&h=62ee6cfa22d176b2bb6d59d22855d2051c68bacab6fc46afda575c86d4315fdc' -o Windows10.iso
 ```
 
 2 - Faça o download da ferramenta para criar pendrive bootável
